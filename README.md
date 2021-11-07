@@ -1,6 +1,8 @@
-## Pexel Image Galery
+### Pexel Image Galery
 This site is a side project from codementor.com with some twists and more functionallit
-#Features :
+
+##Features :
+
 Infinite Scroll
 Pexel Image Api
 Download Images In Various Sizes
